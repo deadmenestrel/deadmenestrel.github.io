@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Vaudeville Stories</title><link href="deadmenestrel.github.io/" rel="alternate"></link><link href="deadmenestrel.github.io/feeds/poesia.atom.xml" rel="self"></link><id>deadmenestrel.github.io/</id><updated>2015-12-31T18:30:00-04:00</updated><entry><title>Uma Carta na Area</title><link href="deadmenestrel.github.io/carta-na-areia.html" rel="alternate"></link><updated>2015-12-31T18:30:00-04:00</updated><author><name>Dead Menestrel</name></author><id>tag:,2015-12-31:deadmenestrel.github.io/carta-na-areia.html</id><summary type="html">&lt;div class="line-block"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Vaudeville Stories</title><link href="https://deadmenestrel.github.io/" rel="alternate"></link><link href="https://deadmenestrel.github.io/feeds/poesia.atom.xml" rel="self"></link><id>https://deadmenestrel.github.io/</id><updated>2015-12-31T18:30:00-04:00</updated><entry><title>Uma Carta na Area</title><link href="https://deadmenestrel.github.io/carta-na-areia.html" rel="alternate"></link><updated>2015-12-31T18:30:00-04:00</updated><author><name>Dead Menestrel</name></author><id>tag:deadmenestrel.github.io,2015-12-31:carta-na-areia.html</id><summary type="html">&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Pérola magistral que encanta os recifes de minha vida,&lt;/div&gt;
 &lt;div class="line"&gt;és minha companheira de momentos singulares&lt;/div&gt;
 &lt;div class="line"&gt;Reges, tal como nenhum maestro,&lt;/div&gt;
@@ -18,7 +18,7 @@
 &lt;/div&gt;
 &lt;!-- This will be turned into :abbr:`HTML (HyperText Markup Language)`. --&gt;
 &lt;!-- [a link relative to content root]({filename}/article1.md) --&gt;
-</summary><category term="poesia"></category></entry><entry><title>Sentido Perdido</title><link href="deadmenestrel.github.io/sentido-perdido.html" rel="alternate"></link><updated>2015-11-01T14:00:00-04:00</updated><author><name>Dead Menestrel</name></author><id>tag:,2015-11-01:deadmenestrel.github.io/sentido-perdido.html</id><summary type="html">&lt;div class="line-block"&gt;
+</summary><category term="poesia"></category></entry><entry><title>Sentido Perdido</title><link href="https://deadmenestrel.github.io/sentido-perdido.html" rel="alternate"></link><updated>2015-11-01T14:00:00-04:00</updated><author><name>Dead Menestrel</name></author><id>tag:deadmenestrel.github.io,2015-11-01:sentido-perdido.html</id><summary type="html">&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Avanço sem passos&lt;/div&gt;
 &lt;div class="line"&gt;Diante da muralha&lt;/div&gt;
 &lt;div class="line"&gt;Farpas cinzentas&lt;/div&gt;
